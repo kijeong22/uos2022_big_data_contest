@@ -1,0 +1,81 @@
+<국내 공공/공개 데이터를 볼 수 있는 곳> 
+>> 전반
+통계청 국가통계포털 https://kosis.kr/
+통계청 e-나라지표 https://www.index.go.kr/main.do?cate=1
+공공데이터 포털 https://www.data.go.kr/
+>> 경제, 금융
+한국은행 경제통계시스템 https://ecos.bok.or.kr/
+금융감독원 금융통계정보시스템 https://fisis.fss.or.kr/fss/fsiview/indexw.html
+국세청 국세통계포털 https://tasis.nts.go.kr/websquare/websquare.html?w2xPath=/cm/index.xml
+금융감독원 전자공시시스템 http://dart.fss.or.kr/
+한국거래소 정보데이터시스템 http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd
+기획재정부 통계 https://www.moef.go.kr/st/confmstats.do?menuNo=6020000
+>> 교통, 부동산, 건설
+국토교통부 국토교통 통계누리 https://stat.molit.go.kr/portal/main/portalMain.do
+한국부동산원 부동산통계정보시스템 https://www.reb.or.kr/r-one/main.do
+통계청 통계지리정보서비스 https://sgis.kostat.go.kr/view/index
+국토교통부 교통량정보제공세스템 http://www.road.re.kr/main/main.asp
+KB국민은행 리브부동산 https://kbland.kr/
+대한건설협회 주요건설통계 http://www.cak.or.kr/board/boardList.do?boardId=statistic_build&menuId=86
+T-money 교통카드 통계자료 https://pay.tmoney.co.kr/ncs/pct/ugd/ReadTrcrStstList.dev
+>> 산업, 에너지, 자원
+산업통상자원부 국가에너지통계 종합정보시스템 http://www.kesis.net/main/main.jsp
+한국자원정보서비스 https://www.kores.net/komis/main/userMain/main.do
+산업통계 분석시스템 https://istans.or.kr/mainMenu.do
+>> 무역
+한국수출입은행 해외직접투자통계 https://stats.koreaexim.go.kr/main.do
+한국무역협회 무역통계서비스 https://stat.kita.net/main.screen#
+>> 교육
+교육부 대학알리미 https://www.academyinfo.go.kr/index.do
+한국교육개발원 교육통계서비스 htps://kess.kedi.re.kr/index
+>> 과학기술
+과학기술정보통신부 과학기술통계 https://www.ntis.go.kr/rndsts/selectStatsDivIdctVo.do
+>> 중소, 벤처기업
+중소벤처기업부 통계자료 https://www.mss.go.kr/site/smba/submain/submain04.do
+KOSIS 국가통계포털
+코시스, 통계청이 제공하는 원스톱 통계 서비스, 국가승인통계, 국제통계, 북한통계, e-지방지표, 통계시각화콘텐츠, 온라인간행물 등 제공
+공공데이터 포털
+국가에서 보유하고 있는 다양한 데이터를『공공데이터의 제공 및 이용 활성화에 관한 법률(제11956호)』에 따라 개방하여 국민들이 보다 쉽고 용이하게 공유•활용할 수 있도록 공공데이터(Dataset)와 Open API로 제공하는 사이트입니다.
+>> 보험
+보험개발원 보험통계조회서비스 https://incos.kidi.or.kr:5443/
+생명보험협회 생명보험통계 https://www.klia.or.kr/consumer/stats/statHomSta/financeStats.do
+>> 국민연금
+국민연금공단 연금정보 https://www.nps.or.kr/jsppage/info/resources/info_resources_03_01.jsp?cmsId=statistics_month
+>> 고용, 노동
+노동통계 https://www.kli.re.kr/kli/selectBbsNttList.do?bbsNo=10&key=44
+>> 여행, 관광
+관광지식정보시스템 https://know.tour.go.kr/
+>> 보건, 복지
+보건복지데이터포털 https://data.kihasa.re.kr/
+>> 건강보험
+국민건강보험 건강보험통계 https://nhiss.nhis.or.kr/bd/ad/bdada013cv.do
+>> 농식품
+식품의약품안전처 통계 https://www.mfds.go.kr/pgm/m_538/statInformation.do
+국가농식품통계서비스 https://kass.mafra.go.kr/kass/ka/main.do
+>> 수산
+해양수산부 수산정보포털 https://www.fips.go.kr/p/Main/
+>> 특허
+특허청 지식재산정보서비스 http://ipstat.kipi.or.kr/cmm/main/mainPage.do;jsessionid=7EB4B32002355628C2386760D5DEAD92
+>> 기후, 날씨
+환경부 환경통계포털 http://stat.me.go.kr/nesis/index.jsp
+기상청 기상자료개방포털 https://data.kma.go.kr/cmmn/main.do
+>> 인구
+주민등록 인구통계 https://jumin.mois.go.kr/ 
+>> 방송, 통신
+방송통신위원회 방송통계 https://www.kcc.go.kr/user.do?boardId=1027&page=A02060100&dc=K02060100
+>> 도서관
+국가도서관통계시스템 https://www.libsta.go.kr/libportal/main/main.do;jsessionid=8YwTs6yEQ5a0q0Cq9kRFeU8Yi1MG1pbC7Mq2YPjnnFuzbafFgPbJBf1MHX7iGdf1.libstat_servlet_engine1
+>> 조달
+조달청 통계정보 https://www.pps.go.kr/kor/content.do?key=00159
+>> 스포츠
+한국스포츠과학원 체육지표 https://www.sports.re.kr/front/board/bs/boardList.do?menu_seq=596&board_seq=46
+>> 여성, 가족, 청소년
+여성가족부 정책자료실 http://www.mogef.go.kr/mp/pcd/mp_pcd_s001.do?mid=plc505
+>> 상권
+소상공인진흥공단 상권정보시스템 https://sg.sbiz.or.kr/godo/index.sg
+>> 디자인
+디자인 DB https://www.designdb.com/?menuno=668
+>> 서울시
+서울 열린데이터광장 https://data.seoul.go.kr/
+>> 경기도
+경기 데이터드림 https://data.gg.go.kr/portal/mainPage.do
